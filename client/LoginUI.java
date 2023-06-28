@@ -1,4 +1,4 @@
-package week10_Networking.ex2.client;
+package client;
 
 import java.awt.Container;
 import java.awt.FlowLayout;
