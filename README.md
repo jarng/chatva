@@ -1,4 +1,4 @@
-# java-chatapp
+# java-chat-app
 
 A simple multi-threaded chat application supporting concurrent connections written in Java. This project was done as part of the course work for the module CSC13102 - Java Programming at HCMUS.
 
