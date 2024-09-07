@@ -1,4 +1,4 @@
-# jasca
+# chatva
 
 Just a simple chat application supporting concurrent connections written in Java. This project was done as part of the course work for the module CSC13102 - Java Programming at HCMUS.
 
@@ -8,7 +8,6 @@ Just a simple chat application supporting concurrent connections written in Java
 
 - Multi-threaded server to handle multiple clients
 - UI built with Java Swing
-- Handle connection and disconnection of clients
 
 ## Quick Start
 
